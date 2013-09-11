@@ -1,0 +1,7 @@
+<Alloy>
+	<Window title="NavGroup Demo" id="detail">
+		<View class="container" id="blueView" onClick="doNavigate">
+			<Label></Label>
+		</View>
+	</Window>
+</Alloy>

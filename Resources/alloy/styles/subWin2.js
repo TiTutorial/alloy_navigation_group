@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0016,"key":"Window","style":{backgroundColor:"#fff",}},{"isApi":true,"priority":1000.0017,"key":"Label","style":{text:"Click to close NavGroup",textAlign:"center",color:"#000",font:{fontSize:"20dp",},}},{"isClass":true,"priority":10000.0015,"key":"container","style":{width:"150dp",height:"150dp",backgroundColor:"red",}}];

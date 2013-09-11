@@ -1,0 +1,7 @@
+<Alloy>
+	<Window title="Window 1" id="win1">
+		<View class="container" id="greenView" onClick="doNavigate">
+				<Label></Label>
+		</View>
+	</Window>
+</Alloy>

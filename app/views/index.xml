@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="index">
+		<Button id="openBtn" onClick="openNavGroup"></Button>
+		<NavigationGroup id="navgroup" platform="ios">
+			<Require src="detail" id="detail"/>
+		</NavigationGroup>
+	</Window>
+</Alloy>

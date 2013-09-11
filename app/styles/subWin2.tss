@@ -1,0 +1,15 @@
+
+".container" : {
+  width:'150dp',
+  height:'150dp',
+  backgroundColor:'red'
+},
+"Window":{
+ backgroundColor:'#fff'
+},
+"Label":{
+text:"Click to close NavGroup",
+textAlign:'center',
+color:"#000",
+font:{fontSize:'20dp'}
+}

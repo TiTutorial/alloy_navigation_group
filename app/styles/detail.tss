@@ -1,0 +1,18 @@
+
+".container" : {
+  width:'150dp',
+  height:'150dp',
+  backgroundColor:'blue'
+},
+"Window":{
+ backgroundColor:'#fff'
+},
+"Label":{
+text:"Click to open Win1",
+textAlign:'center',
+color:"#000",
+font:{fontSize:'20dp'}
+},
+"Window":{
+ backgroundColor:'#ccc'
+}
